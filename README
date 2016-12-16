@@ -2,9 +2,6 @@
 
 Now working with iPod touch 6g, iPad mini 2, iPhone 5s, iPhone 7 Plus, iPhone 6 Plus, iPad Air 2, iPhone 6
 
-(*) more precisely, I only have those devices and have only tested it on them.
-(*) 1b4150 will probably also work, I haven't tested it.
-
 Contents:
  1 - Build Instructions
  2 - Adding support for other devices
