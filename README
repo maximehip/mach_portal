@@ -1,9 +1,6 @@
 /* ianbeer */
 
-READ THIS FIRST:
-if you do not have an iPod touch 6g running 10.1.1 (14b100) or and iPad mini 2 running 10.1.1 (14b100) this project will
-not work out of the box(*)! You need to fix up a couple of offsets - see the section futher down
-"Adding support for more devices"
+Now working with iPod touch 6g, iPad mini 2, iPhone 5s, iPhone 7 Plus, iPhone 6 Plus, iPad Air 2, iPhone 6
 
 (*) more precisely, I only have those devices and have only tested it on them.
 (*) 1b4150 will probably also work, I haven't tested it.
